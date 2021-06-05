@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+}
+
+img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 25%;
+}

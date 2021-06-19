@@ -40,6 +40,13 @@ nav img {
     position: relative;
 }
 
+hr {
+    width:50%;
+    margin:auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
 .nav-links ul li a {
     color: #fff;
     text-decoration: none;
@@ -76,6 +83,9 @@ nav img {
 
 .text-box h1 span {
     letter-spacing: 1rem;
+}
+.text-box h3 {
+    letter-spacing: 0.3rem;
 }
 
 .text-box p {
